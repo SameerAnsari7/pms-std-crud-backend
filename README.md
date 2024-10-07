@@ -33,8 +33,8 @@ Welcome to the PMS-std-crud-backend repository! This project implements a Placem
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/PMS-std-crud-backend.git
-   cd PMS-std-crud-backend
+   git clone https://github.com/SameerAnsari7/pms-std-crud-backend.git
+   cd pms-std-crud-backend
    ```
 
 2. **Set up MySQL Database**:
